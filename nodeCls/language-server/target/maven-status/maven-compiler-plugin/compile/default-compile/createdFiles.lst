@@ -1,0 +1,4 @@
+org\nodeC\ls\langserver\NodeCTextDocumentService.class
+org\nodeC\ls\langserver\NodeCWorkspaceService.class
+org\nodeC\ls\langserver\Test.class
+org\nodeC\ls\langserver\NodeCLanguageServer.class

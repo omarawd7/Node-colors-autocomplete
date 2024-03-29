@@ -1,0 +1,2 @@
+nodecolors: red, blue
+nodes: []
