@@ -1,11 +1,10 @@
 # Node-colors-autocomplete
-Description
-
+Description:
 This language server provides code completion features for NodeC documents, specifically focusing on assisting with completion of "nodes" property based on "nodecolors" property.
+
 example 1:
 nodecolors:red
 nodes:[]
-
 Now The at nodes:[] auto completes to the strings given at nodecolors to be as the following:
 nodecolors:red
 nodes:[red]
